@@ -1,0 +1,16 @@
+solid inletWater
+facet normal -0 -1 -0
+ outer loop
+  vertex 1e-06 1e-06 1.000001
+  vertex 0.320001 1e-06 1.000001
+  vertex 1e-06 1e-06 1.540001
+ endloop
+endfacet
+facet normal -0 -1 -0
+ outer loop
+  vertex 1e-06 1e-06 1.540001
+  vertex 0.320001 1e-06 1.000001
+  vertex 0.320001 1e-06 1.540001
+ endloop
+endfacet
+endsolid inletWater

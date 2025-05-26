@@ -1,0 +1,72 @@
+solid bedWall
+facet normal 0 0 -1
+ outer loop
+  vertex 3.298077 1.8632737 1
+  vertex 3.298077 1.4567282 1
+  vertex 2.5980773 1.820001 1
+ endloop
+endfacet
+facet normal 0 0 -1
+ outer loop
+  vertex 2.5980773 1.820001 1
+  vertex 3.298077 1.4567282 1
+  vertex 2.5980773 1.500001 1
+ endloop
+endfacet
+facet normal 0 0 -1
+ outer loop
+  vertex 2.5980773 1.820001 1
+  vertex 2.5980773 1.500001 1
+  vertex 1e-06 0.320001 1
+ endloop
+endfacet
+facet normal -0 0 -1
+ outer loop
+  vertex 1e-06 0.320001 1
+  vertex 2.5980773 1.500001 1
+  vertex 1e-06 1e-06 1
+ endloop
+endfacet
+facet normal -0.19241434 0 -0.98131377
+ outer loop
+  vertex 8.398077 2.160001 2.7755576e-15
+  vertex 8.398077 1.160001 2.7755576e-15
+  vertex 8.098077 2.160001 0.05882353
+ endloop
+endfacet
+facet normal -0.19241434 0 -0.98131377
+ outer loop
+  vertex 8.098077 2.160001 0.05882353
+  vertex 8.398077 1.160001 2.7755576e-15
+  vertex 8.098077 1.160001 0.05882353
+ endloop
+endfacet
+facet normal -0.19241446 0 -0.9813137
+ outer loop
+  vertex 8.098077 2.160001 0.05882353
+  vertex 8.098077 1.160001 0.05882353
+  vertex 3.298077 1.8632737 1
+ endloop
+endfacet
+facet normal -0.19241448 0 -0.98131377
+ outer loop
+  vertex 3.298077 1.8632737 1
+  vertex 8.098077 1.160001 0.05882353
+  vertex 3.298077 1.4567282 1
+ endloop
+endfacet
+facet normal 0 0 -1
+ outer loop
+  vertex 8.398077 2.160001 2.7755576e-15
+  vertex 23.098078 2.160001 2.7755576e-15
+  vertex 8.398077 1.160001 2.7755576e-15
+ endloop
+endfacet
+facet normal -0 0 -1
+ outer loop
+  vertex 8.398077 1.160001 2.7755576e-15
+  vertex 23.098078 2.160001 2.7755576e-15
+  vertex 23.098078 1.160001 2.7755576e-15
+ endloop
+endfacet
+endsolid bedWall
